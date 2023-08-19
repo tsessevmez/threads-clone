@@ -65,7 +65,7 @@ watch(
                 class="mt-20 w-full flex items-center justify-center mx-auto"
               >
                 <div
-                  class="text-white mx-auto flex flex-col items-center justify-center"
+                  class="text-white ml-1 mx-auto flex flex-col items-center justify-center"
                 >
                   <Icon
                     name="eos-icons:bubble-loading"
